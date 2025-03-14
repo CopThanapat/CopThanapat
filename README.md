@@ -27,7 +27,7 @@ const thanapat = {
   focus: "Building scalable backend systems and AI-powered solutions",
   funFact: "I automate my life... so I can code more!"
 };
-
+```
 <div align="center"> <a href="https://linkedin.com/in/thanapat-boonrung" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-054e85?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:thanapat.dev@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-thanapat.dev%40hotmail.com-054e85?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /> </a> </div>
 
 
@@ -45,4 +45,4 @@ const thanapat = {
 
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/> </div>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=054e85&height=100&section=footer" /> </div> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=054e85&height=100&section=footer" /> </div>
