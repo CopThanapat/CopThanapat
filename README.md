@@ -35,9 +35,6 @@ const thanapat = {
 
 
 
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=thanapat-boonrung&theme=darkhub&title=Followers,Stars,Commit,Repositories&margin-w=10&margin-h=10" /> </div>
-
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/> </div>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=054e85&height=100&section=footer" /> </div>
